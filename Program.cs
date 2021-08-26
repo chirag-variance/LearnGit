@@ -14,6 +14,8 @@ namespace LearnGit
         public static void Main(string[] args)
         {
             // Added comment Stagged 1
+
+            // Staged 2
             CreateHostBuilder(args).Build().Run();
         }
 
