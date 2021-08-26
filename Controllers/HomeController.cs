@@ -11,6 +11,7 @@ namespace LearnGit.Controllers
 {
     /// <summary>
     /// Main controller Sprint 2
+    /// Added in Sprint 1 and should me conflict
     /// </summary>
     public class HomeController : Controller
     {
