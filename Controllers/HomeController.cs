@@ -26,6 +26,7 @@ namespace LearnGit.Controllers
 
         public IActionResult Index()
         {
+            // This change is from Sprint3
             return View();
         }
 
