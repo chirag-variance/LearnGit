@@ -9,6 +9,9 @@ using System.Threading.Tasks;
 
 namespace LearnGit.Controllers
 {
+    /// <summary>
+    /// Main controller Sprint 2
+    /// </summary>
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
