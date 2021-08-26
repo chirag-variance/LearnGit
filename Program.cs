@@ -25,6 +25,7 @@ namespace LearnGit
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
+                    // Sprint 1
                 });
     }
 }
