@@ -16,6 +16,7 @@ namespace LearnGit
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+            // Sprint1
         }
 
         public IConfiguration Configuration { get; }
