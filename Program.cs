@@ -16,6 +16,7 @@ namespace LearnGit
             // Added comment Stagged 1
 
             // Staged 2
+            //Sprint Changes
             CreateHostBuilder(args).Build().Run();
         }
 
@@ -25,6 +26,7 @@ namespace LearnGit
                 {
                     // Sprint 2 changes
                     webBuilder.UseStartup<Startup>();
+                    // Sprint 1
                 });
     }
 }
